@@ -1,0 +1,11 @@
+C:\Users\Jesus\source\repos\guia 7 3010720 parte 2\bin\Debug\guia 7 3010720 parte 2.exe.config
+C:\Users\Jesus\source\repos\guia 7 3010720 parte 2\bin\Debug\guia 7 3010720 parte 2.exe
+C:\Users\Jesus\source\repos\guia 7 3010720 parte 2\bin\Debug\guia 7 3010720 parte 2.pdb
+C:\Users\Jesus\source\repos\guia 7 3010720 parte 2\obj\Debug\guia 7 3010720 parte 2.csproj.AssemblyReference.cache
+C:\Users\Jesus\source\repos\guia 7 3010720 parte 2\obj\Debug\guia_7_3010720_parte_2.Form1.resources
+C:\Users\Jesus\source\repos\guia 7 3010720 parte 2\obj\Debug\guia_7_3010720_parte_2.Form2.resources
+C:\Users\Jesus\source\repos\guia 7 3010720 parte 2\obj\Debug\guia_7_3010720_parte_2.Properties.Resources.resources
+C:\Users\Jesus\source\repos\guia 7 3010720 parte 2\obj\Debug\guia 7 3010720 parte 2.csproj.GenerateResource.cache
+C:\Users\Jesus\source\repos\guia 7 3010720 parte 2\obj\Debug\guia 7 3010720 parte 2.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\guia 7 3010720 parte 2\obj\Debug\guia 7 3010720 parte 2.exe
+C:\Users\Jesus\source\repos\guia 7 3010720 parte 2\obj\Debug\guia 7 3010720 parte 2.pdb
